@@ -16,3 +16,4 @@
 - [ ] Colorize ueventd.rc which has a different syntax that other rc files
 - [x] Handle nested property expansion (won't do: not supported by Init system)
 - [ ] Add action/option-specific highlight
+
